@@ -19,7 +19,7 @@
 # 生日1
 "birthday1": {"name": "邓璐", "birthday": "1990-05-09"},
 # 生日2
-"birthday2": {"name": "邓璐", "birthday": "r1990-04-15"},
+"birthday2": {"name": "邓璐(农历)", "birthday": "r1990-04-15"},
 # 纪念日1，会计算累计时间，格式"YYYY-MM-DD"
 "commemoration_day1": "1990-05-09",
 # 金句中文，留空默认显示金山的每日金句
